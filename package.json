@@ -1,0 +1,23 @@
+{
+  "name": "upload-jibbit-use",
+  "version": "1.0.0",
+  "description": "Utilize's powerful capabilities to streamline data transfer and processing tasks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wafflewarr10r/upload-jibbit-use"
+  },
+  "author": "wafflewarr10r",
+  "license": "MIT",
+  "dependencies": {
+    "api-jibbit-manager": "1.0.0",
+    "upload-jibbit-use": "1.0.0",
+    "enzyme": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "validator": "1.0.0",
+    "ejs": "1.0.0"
+  }
+}
